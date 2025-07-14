@@ -18,10 +18,10 @@ logs
 .idea
 
 # Local env files
-.env
 .vercel
 .data
 
 rt_base
 
 .history
+config.bat
